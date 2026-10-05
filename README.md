@@ -1,3 +1,7 @@
+> **⚠️ This repository has moved.**
+> Development continues at **https://github.com/WC-Pune/wcpune2027-css**.
+> This copy is no longer the source of truth and may be out of date.
+
 # WordCamp Pune 2027 — Remote CSS
 
 `wcpune2027.css` is the custom stylesheet for pune.wordcamp.org/2027 (theme: Twenty Twenty-Five).
